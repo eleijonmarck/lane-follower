@@ -20,7 +20,8 @@ TODO:
 - [x] sponsor - potential sponsor from Scania, they can't take any credit.
 - [x] estimate the number of needed participants for the event - around 40 people
 - [ ] USB-sticks for loading the models through /usb/model.pkl 
-- [x] ~~git server for cars~~ - Would have been cool. Nice to have feature
+- [x] ~~git server for cars~~ - Would have been cool. Nice to have
+  feature, will use the USB-sticks instead
 - [x] might need GPU credits for the event. ~ anyone know how much?
   - 8sek/hour for a decent GPU in the cloud (thats full, on-demand price for a GPU comprable to a new titan) 200sek for 24h
 - [ ] venue?
