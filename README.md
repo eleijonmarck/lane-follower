@@ -18,10 +18,13 @@ based on a streamed image from the RC.
  * time
  * time
  * some other time
-* There is no competition here, but we hope that everyone can make at least one lap around the court
+* We have made it so that the driving lane will get harder and harder. And see who makes it the furtherest
 
 TODO:
-[ ] estimate the number of needed participants for the event
-[ ] try to get a sponsor
+[ ] sponsor
+[x] estimate the number of needed participants for the event - around 40 people
+[ ] USB-sticks for loading the models through /usb/model.pkl 
+[x] ~~git server for cars~~ - Would have been cool. Nice to have feature
+[ ] might need GPU credits for the event. ~ anyone know how much?
 [ ] venue?
-[ ] git server installation and setup on RPi:s
+[ ] see what framerate is needed for input to model
