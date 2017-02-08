@@ -9,7 +9,6 @@ based on a streamed image from the RC.
 * We estimate that training with regular CPU takes about ~30 min
 * Dedicated time for testing the models will be at
  * time
- * time
  * some other time
 * We have made it so that the driving lane will get harder and harder. And see who makes it the furtherest
 * Winning 3 teams will present their model and thoughtprocess
