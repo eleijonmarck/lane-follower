@@ -1,11 +1,10 @@
 # Welcome to Lane-follower!
-Build a model using keras / tensorflow for outputing a int between -70 : 70 for the steering wheels 
+Build a model using keras / tensorflow for outputing a int between -80 : 80 for the steering wheels 
 based on a streamed image from the RC.
 
 ## Event details
-* Each have their own team ( hopefully )
-* Build the model and output a pickle file in the /models directory with your team name like so: /models/team_name.pkl
-* Each team will push the models to ```git push origin master team_name```
+* Each participant will have their own team ( hopefully )
+* Each team will build the model and output a pickle file in the /models directory with your team name like so: /models/team_name.pkl
 * We estimate that training with regular CPU takes about ~30 min
 * Dedicated time for testing the models will be at
  * time
