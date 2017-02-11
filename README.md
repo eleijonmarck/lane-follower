@@ -1,6 +1,7 @@
 # Welcome to Lane-follower!
 Build a model using keras / tensorflow for outputing a int between -80 : 80 for the steering wheels 
-based on a streamed image from the RC.
+based on a streamed image from the RC. Inspired by the work from
+[wroscoe](https://wroscoe.github.io/keras-lane-following-autopilot.html)
 
 ## Event details
 * Each participant will have their own team ( hopefully )
